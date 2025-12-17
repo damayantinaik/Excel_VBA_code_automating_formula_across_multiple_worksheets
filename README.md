@@ -1,11 +1,12 @@
 
  # Creating macro with VBA code to automate excel formula across multiple worksheets in an excel workbook 
 
+ ## Introduction:
  In this project, I’m using data from an organization, and the data has been imported to an excel workbook. 
  
 The organization has four buildings/divisions; East, West, North & South. The worksheets list the expenditure of each division for three months (Jan, Feb & March) spent on various purposes such as Telephone, Overhead, Technical support, Telemarketing, Advertising etc.
 
-Problem statement:
+## Problem statement:
 Prepare a Macro with VBA code summing the Total Expense column. 
 
 ![Solution VBA code:](https://github.com/damayantinaik/Excel_VBA_code_automating_formula_across_multiple_worksheets/blob/main/Automate_sum_across_multiple_worksheets_VBA_code.png)
