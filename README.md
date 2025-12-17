@@ -10,7 +10,6 @@ Prepare a Macro with VBA code summing the Total Expense column.
 
 Solution VBA code: 
 
------
 Public Sub AutomateTotalSum()
     'Define a variable to get the address of last cell of the selection
     Dim lastCell As String
