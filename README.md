@@ -1,1 +1,2 @@
-# Excel_VBA_code_automating_formula_across_multiple_worksheets
+
+ # Creating Macro with VBA code to automate excel Formula across multiple worksheets in an Excel workbook 
