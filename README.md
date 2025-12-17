@@ -8,8 +8,8 @@ The organization has four buildings/divisions; East, West, North & South. The wo
 Problem statement:
 Prepare a Macro with VBA code summing the Total Expense column. 
 
-Solution VBA code:
-[]
+![Solution VBA code:]()
+
 
 
 
